@@ -4,7 +4,7 @@
   "description": "Personal portfolio website showcasing Full Stack Development and Cybersecurity projects",
   "private": true,
   "author": "Baraa Mekyash <baraahmekyash@gmail.com>",
-  "homepage": "https://baraahm.github.io/portfolio",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
