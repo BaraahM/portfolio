@@ -1,8 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg2 from "../assets/img/project-img2.png";
 import claudeImg from "../assets/img/claude.png";
-import projImg3 from "../assets/img/project-img3.png";
 import utmFoodImg from "../assets/img/utmfood.jpg";
 import nancyImg from "../assets/img/nancy.jpg";
 import mlPhishingImg from "../assets/img/ML-Phishing.png";
