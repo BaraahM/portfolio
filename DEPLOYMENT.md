@@ -6,6 +6,7 @@
 - `netlify.toml` - Configuration file specifying Node.js version and build settings
 - `.nvmrc` - Node.js version specification
 - Updated `package.json` homepage to "." for proper routing
+- Added `build:netlify` script that disables CI warnings as errors
 
 ### Steps to Deploy:
 
